@@ -1,0 +1,12 @@
+.test-link {
+    color: black;
+}
+.test-link:hover {
+   color: coral;
+}
+.test-link:focus {
+    color: gold;
+}
+.test-link:visited {
+ color: brown;   
+}
