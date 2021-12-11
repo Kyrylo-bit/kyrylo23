@@ -1,12 +1,11 @@
 .test-link {
     color: black;
 }
-.test-link:hover {
-   color: coral;
-}
+.test-link:hover,
 .test-link:focus {
-    color: gold;
+    color: #0000ff
 }
-.test-link:visited {
- color: brown;   
+   
+.test-link:active {
+    color: chartreuse;
 }
