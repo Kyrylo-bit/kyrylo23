@@ -1,11 +1,46 @@
-.test-link {
+body {
+background: #E5E5E5;
+color: #212121;
+}
+.page-header {
+    background: #FFFFFF;
+    
+}
+
+.logo {
     color: black;
 }
-.test-link:hover,
-.test-link:focus {
-    color: #0000ff
+.color-logo {
+    color: blue;
 }
-   
-.test-link:active {
-    color: chartreuse;
+
+
+
+/* site-nav */
+
+.link {
+    color: #212121;
+    margin-right: 20px;
+}
+
+.site-nav {
+    list-style: none;
+    display: flex;
+}
+.list {
+    text-decoration: none;
+}
+/* цвет основного текста  */
+/* вспомогательный цвет #757575 */
+/*белій цвет #FFFFFF*/
+/* акцент #2196F3 */
+/* вторичный цвет фона background: #F5F4FA;
+ */
+
+
+    
+
+
+address {
+    list-style: none;
 }
